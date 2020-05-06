@@ -3,8 +3,11 @@
 This is a mini-project which particularly has helped me have hand-on experience for use of pandas and data visualization using matplotlib in python for data science related experience. Here, I have worked on the 12 months sales data of a company and tried to answer some questions which can be useful for the analysis of the data. Following is the outform of the tasks accomplished:
 
 #Importing essential libraries
+
 #Merging 12 months of slaes data into one file
+
 #Cleaning up the data
+
 #Augmenting data with additional columns
 
 Following are the questions answered:
